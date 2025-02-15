@@ -7,7 +7,7 @@ public class User {
     String email;
     String userpassword;
 
-    public String getEmail() {gir
+    public String getEmail() {
         return email;
     }
 

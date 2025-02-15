@@ -4,7 +4,16 @@ public class User {
 
     int  userId;
     String username;
+    String email;
     String userpassword;
+
+    public String getEmail() {gir
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
     public String getUserpassword() {
         return userpassword;
